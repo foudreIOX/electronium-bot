@@ -1,0 +1,18 @@
+{
+  "name": "electronium_bot",
+  "version": "1.0.0",
+  "description": "bot pour le serveur electronium",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "FoudreIOX",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "opusscript": "0.0.8",
+    "parse-duration": "^0.4.4",
+    "ytdl-core": "^4.5.0"
+  }
+}
